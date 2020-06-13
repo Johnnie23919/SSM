@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Ex
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/johnnie23919/Ex
+          username: zhouwufan@foxmail.com
+          password: zhou177142.
+          timeout: 5
+          default-label: master
+
