@@ -92,11 +92,17 @@
       <workItem from="1591686622314" duration="1103000" />
       <workItem from="1591738391633" duration="490000" />
       <workItem from="1592032422727" duration="3824000" />
+      <workItem from="1592197706711" duration="81000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:/Idea/Git/git Respository" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="431" y="127" key="FileChooserDialogImpl" timestamp="1592039405343">
@@ -135,10 +141,10 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state width="1224" height="176" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1592038094918" />
-    <state x="155" y="29" key="SettingsEditor" timestamp="1592039336756">
+    <state x="155" y="29" key="SettingsEditor" timestamp="1592197794541">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="155" y="29" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1592039336756" />
+    <state x="155" y="29" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1592197794541" />
     <state x="344" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1591738605655">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
